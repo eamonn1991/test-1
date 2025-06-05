@@ -20,7 +20,7 @@ A high-performance, multi-threaded GitHub repository crawler that uses GraphQL A
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/eamonn1991/test-1.git
 cd github_graphql_learn
 ```
 
