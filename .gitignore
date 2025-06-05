@@ -37,6 +37,7 @@ config.py
 .env
 tokens.yaml
 tokens.txt
+db_dump_*.csv
 
 # Database
 *.sqlite3
